@@ -83,8 +83,3 @@ de.robv.android.xposed.*
 
 ---
 
-If you want, I can also:
-
-* generate screenshots of the correct folder structure
-* add section for **Android Studio troubleshooting**
-* extend this README for full LSPosed module setup
