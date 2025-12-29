@@ -1,6 +1,3 @@
-Here’s a clean, concise README you can include with your project. I’ve formatted it so it is clear what to do and why.
-
----
 
 # Xposed API Setup Guide
 
